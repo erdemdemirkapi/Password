@@ -1,0 +1,151 @@
+CACHE MANIFEST
+# 2015-08-07: v.550
+
+CACHE:
+favicon.ico
+
+js/vendor/jquery-2.1.0.min.js
+js/vendor/html2canvas-0.4.1.min.js
+js/vendor/iscroll-lite-5.0.6.1.js
+
+offline/fonts/RobotoCondensed-Light.woff
+offline/fonts/Roboto-Light.woff
+offline/fonts/Roboto-Thin.woff
+
+NETWORK:
+*
+
+FALLBACK:
+css/app.550.css offline/css/app.550.css
+
+js/alchemy.550.js offline/js/alchemy.550.js
+js/alchemy.firstLoad.550.js offline/js/alchemy.firstLoad.550.js
+js/alchemy.secondLoad.550.js offline/js/alchemy.secondLoad.550.js
+js/vendor/dragNdrop.550.js offline/js/vendor/dragNdrop.550.js
+
+resources/base.550.json offline/resources/base.550.json
+resources/images.550.json offline/resources/images.550.json
+
+img/120-opaque.png offline/img/120-opaque.png 
+img/128-alpha.png offline/img/128-alpha.png 
+img/152-opaque.png offline/img/152-opaque.png 
+img/192-alpha.png offline/img/192-alpha.png 
+img/48-alpha.png offline/img/48-alpha.png 
+img/512-alpha.png offline/img/512-alpha.png 
+img/72-alpha.png offline/img/72-alpha.png 
+img/76-opaque.png offline/img/76-opaque.png 
+img/96-alpha.png offline/img/96-alpha.png 
+img/achievement100-locked.png offline/img/achievement100-locked.png 
+img/achievement100.png offline/img/achievement100.png 
+img/achievement200-locked.png offline/img/achievement200-locked.png 
+img/achievement200.png offline/img/achievement200.png 
+img/achievement300-locked.png offline/img/achievement300-locked.png 
+img/achievement300.png offline/img/achievement300.png 
+img/achievement400-locked.png offline/img/achievement400-locked.png 
+img/achievement400.png offline/img/achievement400.png 
+img/achievement50-locked.png offline/img/achievement50-locked.png 
+img/achievement50.png offline/img/achievement50.png 
+img/achievement-all-locked.png offline/img/achievement-all-locked.png 
+img/achievement-all.png offline/img/achievement-all.png 
+img/achievement-earned-placeholder.png offline/img/achievement-earned-placeholder.png 
+img/achievement-hidden-locked.png offline/img/achievement-hidden-locked.png 
+img/achievement-hidden.png offline/img/achievement-hidden.png 
+img/achievement-not-earned-placeholder.png offline/img/achievement-not-earned-placeholder.png 
+img/achievements.svg offline/img/achievements.svg 
+img/broadcast-fade.png offline/img/broadcast-fade.png 
+img/clear.png offline/img/clear.png 
+img/cross-panel.png offline/img/cross-panel.png 
+img/home.svg offline/img/home.svg 
+img/icon-facebook.png offline/img/icon-facebook.png 
+img/icon-googleplus.png offline/img/icon-googleplus.png 
+img/icon-twitter.png offline/img/icon-twitter.png 
+img/leaderboard.svg offline/img/leaderboard.svg 
+img/library-background.png offline/img/library-background.png 
+img/library-fade.png offline/img/library-fade.png 
+img/little-alchemy-1024-logo.png offline/img/little-alchemy-1024-logo.png 
+img/little-alchemy-open-graph.png offline/img/little-alchemy-open-graph.png 
+img/loading-screen-logo.png offline/img/loading-screen-logo.png 
+img/menu-checkbox-checked.png offline/img/menu-checkbox-checked.png 
+img/menu-checkbox-unchecked.png offline/img/menu-checkbox-unchecked.png 
+img/night-mode-clear.png offline/img/night-mode-clear.png 
+img/night-mode-cross-panel-dark.png offline/img/night-mode-cross-panel-dark.png 
+img/night-mode-cross-panel.png offline/img/night-mode-cross-panel.png 
+img/night-mode-fullscreen.png offline/img/night-mode-fullscreen.png 
+img/night-mode-menu-checkbox-checked.png offline/img/night-mode-menu-checkbox-checked.png 
+img/night-mode-menu-checkbox-unchecked.png offline/img/night-mode-menu-checkbox-unchecked.png 
+img/night-mode-menu.png offline/img/night-mode-menu.png 
+img/night-mode-screenshot.png offline/img/night-mode-screenshot.png 
+img/night-mode-un-fullscreen.png offline/img/night-mode-un-fullscreen.png 
+img/screenshot.png offline/img/screenshot.png 
+img/settings.svg offline/img/settings.svg 
+img/workspace-background.png offline/img/workspace-background.png 
+
+resources/en/broadcast.550.json offline/resources/en/broadcast.550.json
+resources/en/languagePack.550.json offline/resources/en/languagePack.550.json
+resources/en/menu.html offline/resources/en/menu.html
+resources/en/names.550.json offline/resources/en/names.550.json
+resources/en/notifications.html offline/resources/en/notifications.html
+resources/en/templates.html offline/resources/en/templates.html
+
+resources/de/broadcast.550.json offline/resources/de/broadcast.550.json
+resources/de/languagePack.550.json offline/resources/de/languagePack.550.json
+resources/de/menu.html offline/resources/de/menu.html
+resources/de/names.550.json offline/resources/de/names.550.json
+resources/de/notifications.html offline/resources/de/notifications.html
+resources/de/templates.html offline/resources/de/templates.html
+
+resources/es/broadcast.550.json offline/resources/es/broadcast.550.json
+resources/es/languagePack.550.json offline/resources/es/languagePack.550.json
+resources/es/menu.html offline/resources/es/menu.html
+resources/es/names.550.json offline/resources/es/names.550.json
+resources/es/notifications.html offline/resources/es/notifications.html
+resources/es/templates.html offline/resources/es/templates.html
+
+resources/fr/broadcast.550.json offline/resources/fr/broadcast.550.json
+resources/fr/languagePack.550.json offline/resources/fr/languagePack.550.json
+resources/fr/menu.html offline/resources/fr/menu.html
+resources/fr/names.550.json offline/resources/fr/names.550.json
+resources/fr/notifications.html offline/resources/fr/notifications.html
+resources/fr/templates.html offline/resources/fr/templates.html
+
+resources/it/broadcast.550.json offline/resources/it/broadcast.550.json
+resources/it/languagePack.550.json offline/resources/it/languagePack.550.json
+resources/it/menu.html offline/resources/it/menu.html
+resources/it/names.550.json offline/resources/it/names.550.json
+resources/it/notifications.html offline/resources/it/notifications.html
+resources/it/templates.html offline/resources/it/templates.html
+
+resources/nl/broadcast.550.json offline/resources/nl/broadcast.550.json
+resources/nl/languagePack.550.json offline/resources/nl/languagePack.550.json
+resources/nl/menu.html offline/resources/nl/menu.html
+resources/nl/names.550.json offline/resources/nl/names.550.json
+resources/nl/notifications.html offline/resources/nl/notifications.html
+resources/nl/templates.html offline/resources/nl/templates.html
+
+resources/no/broadcast.550.json offline/resources/no/broadcast.550.json
+resources/no/languagePack.550.json offline/resources/no/languagePack.550.json
+resources/no/menu.html offline/resources/no/menu.html
+resources/no/names.550.json offline/resources/no/names.550.json
+resources/no/notifications.html offline/resources/no/notifications.html
+resources/no/templates.html offline/resources/no/templates.html
+
+resources/pl/broadcast.550.json offline/resources/pl/broadcast.550.json
+resources/pl/languagePack.550.json offline/resources/pl/languagePack.550.json
+resources/pl/menu.html offline/resources/pl/menu.html
+resources/pl/names.550.json offline/resources/pl/names.550.json
+resources/pl/notifications.html offline/resources/pl/notifications.html
+resources/pl/templates.html offline/resources/pl/templates.html
+
+resources/pt/broadcast.550.json offline/resources/pt/broadcast.550.json
+resources/pt/languagePack.550.json offline/resources/pt/languagePack.550.json
+resources/pt/menu.html offline/resources/pt/menu.html
+resources/pt/names.550.json offline/resources/pt/names.550.json
+resources/pt/notifications.html offline/resources/pt/notifications.html
+resources/pt/templates.html offline/resources/pt/templates.html
+
+resources/sv/broadcast.550.json offline/resources/sv/broadcast.550.json
+resources/sv/languagePack.550.json offline/resources/sv/languagePack.550.json
+resources/sv/menu.html offline/resources/sv/menu.html
+resources/sv/names.550.json offline/resources/sv/names.550.json
+resources/sv/notifications.html offline/resources/sv/notifications.html
+resources/sv/templates.html offline/resources/sv/templates.html
